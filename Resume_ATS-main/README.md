@@ -1,2 +1,2 @@
 # Resume_ATS
- Tells you about how compatible is your resume with respect to the Job Description.
+ Evaluates your resume's alignment with the job requirements, ensuring your skills and experiences match the role's expectations.
